@@ -1,5 +1,5 @@
 <h1 align="center">Oi, eu sou a Ataíze Feitosa! 👋</h1>
-# Oi, eu sou a Ataíze Feitosa! 👋  
+
 💻 Desenvolvedora em formação | 🧠 Neuroeducadora | 🇧🇷 Aracaju-SE
 
 ---
